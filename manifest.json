@@ -1,0 +1,10 @@
+{
+  "Name": "ColdBreath",
+  "Author": "m0nkeyMods",
+  "Version": "1.0.0",
+  "Description": "Adds steam for breath in the winter",
+  "UniqueID": "m0nkeyMods.ColdBreath",
+  "EntryDll": "ColdBreath.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
